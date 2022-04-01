@@ -1,2 +1,2 @@
 # fp_2017_utpl
-Ejercicio
+Es un mini juego creado con el motor PilasEngine con python 
